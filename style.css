@@ -1,0 +1,27 @@
+body{
+    padding:100px;
+    font-family:'Arial Narrow', 'Arial', 'Helvetica', sans-serif;
+    font-size:25px;
+    margin:20px;
+}
+
+.section {
+  height: 600px;
+  padding: 64px;
+}
+
+.section-1 {
+  background: #a6ff01;
+  color: #000;
+}
+
+.section-2 {
+  background: #edabe7;
+  color: #000;
+}
+
+.section-3 {
+  background: #af8fea;
+  color: #000;
+}
+
